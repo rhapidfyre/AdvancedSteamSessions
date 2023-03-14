@@ -73,3 +73,5 @@ DerivedDataCache/*
 *.sdf
 *.VC.db
 *.VC.opendb
+Binaries/Win64/UnrealEditor-AdvancedSteamSessions.dll
+Binaries/Win64/UnrealEditor-AdvancedSteamSessions.pdb
